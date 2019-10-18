@@ -1,0 +1,3 @@
+/home/ilya/CLionProjects/OS_lab_2/github/OS_lab_2/src/build/CMakeFiles/rebuild_cache.dir
+/home/ilya/CLionProjects/OS_lab_2/github/OS_lab_2/src/build/CMakeFiles/OS_lab.dir
+/home/ilya/CLionProjects/OS_lab_2/github/OS_lab_2/src/build/CMakeFiles/edit_cache.dir
